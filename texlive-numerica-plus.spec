@@ -1,6 +1,6 @@
 Name:		texlive-numerica-plus
 Version:	61289
-Release:	1
+Release:	2
 Summary:	Iteration and recurrence relations: finding fixed points, zeros and extrema of functions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/numerica-plus
