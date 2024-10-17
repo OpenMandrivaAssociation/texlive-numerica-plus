@@ -3,7 +3,7 @@ Version:	68019
 Release:	1
 Summary:	Iteration and recurrence relations: finding fixed points, zeros and extrema of functions
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/numerica-plus
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/numerica-plus
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/numerica-plus.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/numerica-plus.doc.r%{version}.tar.xz
